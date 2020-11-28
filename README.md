@@ -1,2 +1,5 @@
 # health_checks
-cripts that check the health of our computers
+
+Scripts that check the health of our computers.
+
+This program is targettted at enhancing the performance of our system.
